@@ -11,7 +11,7 @@ Check out the YouTube Video here: https://youtu.be/38kPZZ-Y6rM?si=FG8T109glWY5vr
 ## 🛠️ Components Used
 - Solar Panel
 - 4x LDR (Light Dependent Resistor)
-- 2x Resistors (10kΩ recommended)
+- 4x Resistors (10kΩ recommended)
 - Servo Motor / Stepper Motor (as per your setup)
 - Arduino UNO (or compatible microcontroller)
 - Breadboard and Jumper Wires
