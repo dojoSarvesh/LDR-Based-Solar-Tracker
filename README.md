@@ -4,8 +4,7 @@
 This project demonstrates a **smart solar panel system** that automatically tracks the sun using **4 photoresistors (LDRs)** to maximize energy absorption. The system adjusts the angle of the solar panel based on real-time sunlight detection.
 
 ## 📹 Demo
-Check out the YouTube Short here: [Watch Now](#)  
-(*https://youtu.be/38kPZZ-Y6rM?si=FG8T109glWY5vr0x*)
+Check out the YouTube Video here: https://youtu.be/38kPZZ-Y6rM?si=FG8T109glWY5vr0x
 
 ---
 
